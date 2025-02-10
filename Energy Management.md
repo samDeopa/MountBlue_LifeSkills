@@ -1,4 +1,4 @@
-# Energy Management Challenge Responses
+# Energy Management
 
 ## 1. Activities That Make You Relax
 
